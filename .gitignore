@@ -1,0 +1,6 @@
+.vscode/
+bin/
+obj/
+node_modules/
+wwwroot/
+nuget.config
