@@ -1,9 +1,0 @@
-D:\Projects\Hyperyx.PowerTools.Spread\bin\Debug\netcoreapp3.1\Hyperyx.PowerTools.Spread.deps.json
-D:\Projects\Hyperyx.PowerTools.Spread\bin\Debug\netcoreapp3.1\Hyperyx.PowerTools.Spread.dll
-D:\Projects\Hyperyx.PowerTools.Spread\bin\Debug\netcoreapp3.1\Hyperyx.PowerTools.Spread.pdb
-D:\Projects\Hyperyx.PowerTools.Spread\obj\Debug\netcoreapp3.1\Hyperyx.PowerTools.Spread.csprojAssemblyReference.cache
-D:\Projects\Hyperyx.PowerTools.Spread\obj\Debug\netcoreapp3.1\Hyperyx.PowerTools.Spread.AssemblyInfoInputs.cache
-D:\Projects\Hyperyx.PowerTools.Spread\obj\Debug\netcoreapp3.1\Hyperyx.PowerTools.Spread.AssemblyInfo.cs
-D:\Projects\Hyperyx.PowerTools.Spread\obj\Debug\netcoreapp3.1\Hyperyx.PowerTools.Spread.csproj.CoreCompileInputs.cache
-D:\Projects\Hyperyx.PowerTools.Spread\obj\Debug\netcoreapp3.1\Hyperyx.PowerTools.Spread.dll
-D:\Projects\Hyperyx.PowerTools.Spread\obj\Debug\netcoreapp3.1\Hyperyx.PowerTools.Spread.pdb
